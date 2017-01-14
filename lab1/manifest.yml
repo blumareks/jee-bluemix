@@ -1,0 +1,6 @@
+---
+applications:
+- name: marek-test-jsp
+  memory: 512M
+  host: marek-test-jsp
+  domain: mybluemix.net
